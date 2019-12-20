@@ -1,0 +1,7 @@
+2019-12-20 20:41:50,890 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 01 : Open New Customer page
+2019-12-20 20:41:50,891 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 02 : Input data to maddatory/required fields
+2019-12-20 20:41:57,810 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 03 : Click to Submit Button
+2019-12-20 20:41:58,944 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 04 : Verify success message is displayed
+2019-12-20 20:42:11,233 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 01 : Open New Customer page
+2019-12-20 20:42:11,233 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 02 : Input data to maddatory/required fields
+2019-12-20 20:42:16,227 INFO  com.bankguru.payment.Level_15_Generate_And_Manage_Test_Data - TC_01_CreateNewCustomer - Step 03 : Click to Submit Button
